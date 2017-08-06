@@ -1,0 +1,5 @@
+deg_c = int(input("What is the degrees in Celsius?"))
+
+deg_f = deg_c * (9 / 5) + 32
+
+print(deg_f)
